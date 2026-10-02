@@ -1,0 +1,32 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Cookies & secrets — never commit
+cookies.txt
+*.cookies
+*cookies*.txt
+**/cookies/**
+
+# Downloads
+downloads/
+*.mp4
+*.webm
+*.mkv
+*.m4a
+*.mp3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local env
+.env
+.env.*
